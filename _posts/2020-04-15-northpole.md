@@ -6,7 +6,6 @@ author: sparkling water
 tags: [游记, 北极]
 comments: true
 toc: true
-pinned: true
 ---
 
 前一段时间刷fb的时候忽然发现北极点马拉松换了个特眼熟的照片当账号背景，定睛一看，这不是我吗？？简直激动hhh
