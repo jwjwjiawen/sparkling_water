@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: Sparkling water
+name: sparkling water
 description: 我发现这些日记时，最令我感觉不可思议的是，这里记录的每一天的生活我已完全没有记忆。若是没有记忆，那么这些日常跑到哪里去了呢？
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -66,14 +66,14 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2023 来自sparkling_water
+footer-text: Copyright (c) 2023 来自sparkling water
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: ?loffer #shortname
+disqus: sparkling-water #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
