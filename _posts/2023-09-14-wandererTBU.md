@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 流浪者官图汇总
+title: 流浪者!!
 date: 2023-09-14
 author: sparkling water
 tags: [游戏]
