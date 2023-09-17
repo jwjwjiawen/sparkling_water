@@ -9,8 +9,9 @@ toc: true
 ---
 
 前一段时间刷fb的时候忽然发现北极点马拉松换了个特眼熟的照片当账号背景，定睛一看，这不是我吗？？简直激动hhh
-![NPM Facebook主页](https://upload-images.jianshu.io/upload_images/7350208-2d8aef953357ef8f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 又看了看它发的内容，原来今年的北极马也被取消了，因为疫情原因。
+
 其实去年也取消了，因为政治原因。
 
 世事无常。
@@ -47,8 +48,6 @@ toc: true
 我爹和我吃了很多好吃的。从挪威的各种海鲜，到朗伊尔城的鲸鱼肉，到北极的……干粮。
 我爹和我玩了好多有意思的东西。比如在斯瓦尔巴德的雪原上骑着雪地摩托驰骋了200公里。我坐在他后座噢。
 我爱我爹。
-![和爸比！](https://upload-images.jianshu.io/upload_images/7350208-34643a3e43c93590?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-最爱的一张照片！感谢抓拍下来的阿（jie）姨（jie）！
 
 ### 准备过程
 
