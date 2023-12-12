@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 扬州瓜洲音乐节+镇江三日游
+title: 扬州瓜洲音乐节+镇江三日游with琛宝
 date: 2023-09-17
 author: sparkling water
 tags: [游记, 镇江, tbt]
