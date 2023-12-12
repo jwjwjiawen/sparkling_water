@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 打破对现代主义的刻板印象
+title: 逛展「现代主义漫步」
 date: 2023-09-04
 author: sparkling water
 tags: [逛展, 艺术, 现代主义]
